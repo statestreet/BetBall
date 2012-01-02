@@ -1,0 +1,13 @@
+#Mon Jan 02 20:12:55 CST 2012
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.exe.debug.499004914/CPLUS_INCLUDE_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.exe.debug.499004914/CPLUS_INCLUDE_PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.exe.debug.499004914/CPLUS_INCLUDE_PATH/value=/usr/include/c++/4.4
+environment/project/cdt.managedbuild.config.gnu.exe.debug.499004914/C_INCLUDE_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.exe.debug.499004914/C_INCLUDE_PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.exe.debug.499004914/C_INCLUDE_PATH/value=/usr/include\:/usr/lib/mysql
+environment/project/cdt.managedbuild.config.gnu.exe.debug.499004914/PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.exe.debug.499004914/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.exe.debug.499004914/PATH/value=/usr/bin\:/bin
+environment/project/cdt.managedbuild.config.gnu.exe.debug.499004914/append=true
+environment/project/cdt.managedbuild.config.gnu.exe.debug.499004914/appendContributed=true
